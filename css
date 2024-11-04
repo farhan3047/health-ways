@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header, #cta, footer {
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px;
+}
+
+button {
+  background-color: #FF5733;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+#benefits ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#benefits li {
+  margin: 10px 0;
+}
